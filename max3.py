@@ -1,4 +1,4 @@
-# WAP to find the maximum from three numbers.
+# WAP to find the maximum from three numbers
 
 num1, num2, num3 = map(int, input().split())
 if num1>num2:
